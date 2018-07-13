@@ -1,5 +1,3 @@
 # Buried Sky
 
-This game is made by [Argann Bonneau](https://argann.me), with Unity.
-
-Please, take a seat :)
+A tactical multiplayer game by [http://argann.me](Argann BONNEAU).

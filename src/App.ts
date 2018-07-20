@@ -3,7 +3,7 @@ import TestScene from './scenes/TestScene';
 
 const config: GameConfig = {
     type: Phaser.AUTO,
-    parent: 'content',
+    parent: '#gameContainer',
     width: 640,
     height: 480,
     resolution: 1, 

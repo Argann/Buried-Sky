@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "module": "commonjs",
+        "module": "esnext",
         "experimentalDecorators": true,
         "esModuleInterop": true,
         "target": "es6",
